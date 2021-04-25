@@ -1,0 +1,27 @@
+{
+  "name": "react-native-dashed-line",
+  "version": "1.0.0",
+  "description": "A dependency free React Native component to render dashed/dotted lines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RBrNx/react-native-dashed-line.git"
+  },
+  "keywords": [
+    "react-native",
+    "dashed",
+    "dotted",
+    "line",
+    "react",
+    "native"
+  ],
+  "author": "RBrNx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RBrNx/react-native-dashed-line/issues"
+  },
+  "homepage": "https://github.com/RBrNx/react-native-dashed-line#readme"
+}
