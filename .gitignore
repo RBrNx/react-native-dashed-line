@@ -1,0 +1,20 @@
+# OSX
+.DS_Store
+
+# IDE
+.idea
+.vscode
+
+# npm
+node_modules
+
+# jest
+coverage
+
+# build
+build
+index.min.js
+dist
+
+# eslint
+.eslintcache
