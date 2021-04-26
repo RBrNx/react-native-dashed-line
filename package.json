@@ -15,9 +15,6 @@
     "react",
     "native"
   ],
-  "files": [
-    "dist"
-  ],
   "author": "RBrNx",
   "license": "MIT",
   "bugs": {
