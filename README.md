@@ -1,7 +1,3 @@
-<p align="center">
-  <img height="90" src="https://user-images.githubusercontent.com/1332314/89441622-57902080-d745-11ea-9dee-e030a435eefd.png" alt="Library's logo">
-</p>
-
 <h3 align="center">
   React Native Dashed Line
 </h3>
