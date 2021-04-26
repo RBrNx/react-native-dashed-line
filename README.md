@@ -6,6 +6,18 @@
   A dependency free React Native component to render dashed/dotted lines
 </p>
 
+<p align="center">
+  <a href="https://www.npmjs.com/package/react-native-dashed-line">
+    <img src="https://img.shields.io/npm/v/react-native-dashed-line?style=flat-square" alt="Current npm package version." />
+  </a>
+  <a href="https://www.npmjs.com/package/react-native-dashed-line">
+    <img src="https://img.shields.io/bundlephobia/min/react-native-dashed-line?style=flat-square" alt="Bundle size" />
+  </a>
+  <a href="https://github.com/RBrNx/react-native-dashed-line/blob/master/LICENSE">
+    <img src="https://img.shields.io/npm/l/react-native-dashed-line?style=flat-square" alt="react-native-dashed-line is released under the MIT license." />
+  </a>
+</p>
+
 <hr />
 
 <br />
