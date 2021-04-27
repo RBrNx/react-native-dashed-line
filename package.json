@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/RBrNx/react-native-dashed-line/issues"
   },
-  "homepage": "https://github.com/RBrNx/react-native-dashed-line#readme"
+  "homepage": "https://github.com/RBrNx/react-native-dashed-line#readme",
+  "types": "index.d.ts"
 }
